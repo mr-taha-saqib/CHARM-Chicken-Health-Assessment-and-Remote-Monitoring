@@ -128,7 +128,7 @@ Poultry farmers often struggle with early detection of infectious diseases, lead
 ## Contributing
 
 We welcome contributions!  
-To contribute:
+To contribute in our project:
 
 1. Fork this repository.
 2. Create a new branch.
