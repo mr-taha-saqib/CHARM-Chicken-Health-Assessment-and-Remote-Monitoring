@@ -1,6 +1,6 @@
 # CHARM: Chicken Health Assessment and Remote Monitoring
 
-**CHARM** (Chicken Health Assessment and Remote Monitoring) is an AI-powered web platform for the real-time detection and diagnosis of poultry diseases using deep learning and computer vision. CHARM helps poultry farmers, veterinarians, and researchers upload images or videos of chickens to get instant diagnostic results, health alerts, and actionable treatment suggestions. The system is designed for practical deployment in poultry farms and aims to improve productivity, food safety, and animal health through rapid, automated diagnosis.
+**CHARM** (Chicken Health Assessment and Remote Monitoring) is an AI-powered web based platform for the real-time detection and diagnosis of poultry diseases using deep learning and computer vision advanced algorithms. CHARM helps poultry farmers, veterinarians, and researchers upload images or videos of chickens to get instant diagnostic results, health alerts, and actionable treatment suggestions. The system is designed for practical deployment in poultry farms and aims to improve productivity, food safety, and animal health through rapid, automated diagnosis.
 
 ---
 
